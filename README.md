@@ -1,34 +1,46 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is <strong>Abdul Japar</strong> and I'm a <strong>Cybersecurity & Pentesting Enthusiast</strong> from Indonesia.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-<p align="left">
-✨ Breaking things to understand how they work<br>
-📚 Currently exploring Cyber Security with a focus on Web Pentesting<br>
-🎯 Goals: build a strong foundation in security and improve practical pentesting skills<br>
-🎲 Fun fact: I often learn by experimenting, messing things up, and fixing them again 😄
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abdul%20Japar%20Sidik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 </p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Data+Analyst;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-<h2 align="left">I code with</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/abdul-japar-sidik/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AbdulJapar2025">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://abduljapar2025.github.io/portofolio">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-</div>
+---
 
-###
+## About Me
+
+I am passionate about using technology to understand and solve real-world problems.
+I enjoy building practical solutions through application development and data analysis,
+and I am continuously learning to deliver better solutions.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulJapar2025&theme=tokyonight" alt="Profile Details" />
+</p>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulJapar2025&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+
