@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Abdul%20Japar%20Sidik&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Data+Analyst;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F2&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Software+Developer;Data+Analyst;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/abdul-japar-sidik/">
@@ -29,18 +31,16 @@ and I am continuously learning to deliver better solutions.
 ---
 
 ## GitHub Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdulJapar2025&theme=monokai" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdulJapar2025&theme=monokai" alt="Most Commit Language" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulJapar2025&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulJapar2025&theme=monokai" alt="Profile Details" />
 </p>
 
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulJapar2025&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
 
 
